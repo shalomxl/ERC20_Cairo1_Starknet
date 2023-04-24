@@ -1,0 +1,3 @@
+[crate_roots]
+# test = "."
+protostar_contract_01 = 'src'
